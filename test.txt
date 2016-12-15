@@ -2,3 +2,4 @@ some test content
 local 1
 server 1
 local 2
+test reset 1
